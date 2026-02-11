@@ -109,7 +109,7 @@ Contributions are welcome!
 ## 👨‍💻 Author
 
 Your Name - Saurabh
-GitHub: https://github.com/yourusername  
+GitHub: https://github.com/Saurabh2662/Sudoku-Solver 
 LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
