@@ -108,9 +108,8 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-Your Name - Saurabh
 GitHub: https://github.com/Saurabh2662/Sudoku-Solver 
-LinkedIn: https://linkedin.com/in/yourprofile  
+LinkedIn: https://www.linkedin.com/in/saurabh1826/  
 
 ---
 
